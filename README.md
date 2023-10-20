@@ -4,4 +4,4 @@ This GitHub hosts 51 flash games for everyone to enjoy, from home to school to w
 # Installation
 To be able to use this website locally, all you have to do is download the Full Website in the Packages tab. You can host it on a Github
 Pages site for free.
-https://lordfunion.net/flash/dev/
+https://lordfunion.net/html
